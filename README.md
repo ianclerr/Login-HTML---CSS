@@ -1,2 +1,2 @@
 # Login-HTML - CSS
-### Creamos un login con puroo HTML y CSS muy simple :)
+### Creamos un login con puro HTML y CSS muy simple :)
